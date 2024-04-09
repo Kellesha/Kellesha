@@ -8,4 +8,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Kellesha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kellesha&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellesha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=Kellesha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellesha&size_weight=0.5&count_weight=0.5))
