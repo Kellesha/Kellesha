@@ -1,23 +1,12 @@
 <h1>Hi I'm Kellesha😎</h1>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
-<h2>Languages and Tools:</h2> 
+## 🌐Socials
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kellesha) 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Kellesha)](https://github.com/Kellesha) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Kellesha)](https://github.com/Kellesha) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Kellesha)](https://github.com/Kellesha) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript&link=https://github.com/Kellesha)](https://github.com/Kellesha) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Kellesha)](https://github.com/Kellesha)
-[![Redux](https://img.shields.io/badge/-Reduxt-black?style=flat&logo=redux&link=https://github.com/Kellesha)](https://github.com/Kellesha)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/Kellesha)](https://github.com/Kellesha)
-[![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express&link=https://github.com/Kellesha)](https://github.com/Kellesha)
-[![Sequelize](https://img.shields.io/badge/-Sequelize-green?style=flat&logo=Sequuelize&link=https://github.com/Kellesha)](https://github.com/Kellesha)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Kellesha)](https://github.com/Kellesha) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellesha&size_weight=0.5&count_weight=0.5)
-
-<h2>📈 My GitHub Stats:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Kellesha&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/Kellesha" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Kellesha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kellesha&theme=material-palenight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kellesha&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
